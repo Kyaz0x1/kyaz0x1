@@ -1,5 +1,5 @@
 ## 👨‍💻 Kyaz0x1
-<img src="https://avatars.githubusercontent.com/u/87987490?v=4" width="150" height="150"/>
+<img src="./src/perfil.png" width="150" height="150"/>
 
 * Developer since 2011
 * I develop programs, websites and plugins for minecraft
